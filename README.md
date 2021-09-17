@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Stephen Idowu
-- 👀 I’m interested in intership role in Data Analysis, Data Science, Machine Learning and Computer Programmimg Language (Python, JavaScript, SQL, Power Bi, Tableau)  
+- 👀 I’m interested in intership roles in Data Analysis, Data Science, Machine Learning and Computer Programmimg Language (Python, SQL} 
+- I'm  currently learning Microsoft Excel, Power Bi and Tableau. These are prominent tools needed for this career of mine 
 - 🌱 I’m currently learning the Foundation of Data Analysis, Excel for Data Analysis, Mathematical Statistics for Data Interpretation from simple to complex problems 
-- 💞️ I’m looking to collaborate with start up projects that provide opportunities for learning to becoming a better data analysts 
+- 💞️ I’m looking to collaborate with start up projects that provide opportunities for learning to becoming a better Data Analysts/ Data Scientist 
 - 📫 You can reach me by email : idowusteven@outlook.com 
-
-<!---
-StephenCloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Stephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub 
